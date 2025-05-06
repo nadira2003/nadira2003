@@ -14,13 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nadira2003&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nadira2003&theme=2077)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nadira2003&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nadira2003&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nadira2003&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nadira2003&theme=default&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nadira2003&theme=2077)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nadira2003&theme=2077)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nadira2003&theme=2077)
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nadira2003&theme=2077&utcOffset=8)
 
 ## Connect with me:
 <p align="left">
