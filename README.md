@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nadira2003&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nadira2003&theme=2077) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nadira2003&theme=2077)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nadira2003&theme=2077)
+
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nadira2003&theme=2077)
 
